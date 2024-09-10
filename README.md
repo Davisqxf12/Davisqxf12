@@ -28,6 +28,5 @@
 ##
 
 Abaixo há um link para Trabalhos/Projetos da faculdade!
-<div>
-<p><a href="https://github.com/users/Davisqxf12/projects/1">PROJETOS</a></p>
-</div>
+
+- <a href="https://github.com/users/Davisqxf12/projects/1" target="_blank">PROJETOS</a>
