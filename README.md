@@ -29,4 +29,4 @@
 
 Abaixo há um link para Trabalhos/Projetos da faculdade!
 
-- <a href="https://github.com/users/Davisqxf12/projects/1" target="_blank">PROJETOS</a>
+- <a href="https://github.com/users/Davisqxf12/projects/1">PROJETOS</a>
