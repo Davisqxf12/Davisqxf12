@@ -24,3 +24,10 @@
   <a href = "mailto:dvdvpinto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-pinto-5a7589294/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+Abaixo há um link para Trabalhos/Projetos da faculdade!
+<div>
+<p><a href="https://github.com/users/Davisqxf12/projects/1">PROJETOS</a></p>
+</div>
