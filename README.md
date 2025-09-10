@@ -34,3 +34,4 @@
 Abaixo há um link para Trabalhos/Projetos da faculdade!
 
 - <a href="https://github.com/users/Davisqxf12/projects/1">PROJETOS</a>
+- <a href="https://github.com/Davisqxf12/Minha-primeira-API">PROJETO DE API</a>
