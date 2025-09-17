@@ -1,12 +1,12 @@
 ## Olá! Eu sou o Davi
 
 - 🔭 Bacharelado em Ciência da Computação na UVA (Universidade Veiga de Almeida)
-- 🌱 Atualmente estudando Programação
+- 🌱 Atualmente estudando Programação <!-- comentário -->
 
 <div>
-  <a href="https://instagram.com/Davisqxf12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <!-- <a href="https://instagram.com/Davisqxf12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dvdvpinto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/davi-pinto-5a7589294/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/davi-pinto-5a7589294/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
 </div>
 
 ##
@@ -31,7 +31,7 @@
 
 ## 
 
-Abaixo há um link para Trabalhos/Projetos da faculdade!
+Abaixo há um link para Projetos cadadêmicos ou extracurriculares!
 
 - <a href="https://github.com/users/Davisqxf12/projects/1">PROJETOS</a>
 - <a href="https://github.com/Davisqxf12/Minha-primeira-API">PROJETO DE API</a>
