@@ -1,4 +1,6 @@
-## Olá! Eu sou o Davi
+# Olá! Eu sou o Davi
+
+**`Bacharelado em Ciência da Computação na UVA (Universidade Veiga de Almeida)`**
 
 - 🔭 Bacharelado em Ciência da Computação na UVA (Universidade Veiga de Almeida)
 - 🌱 Atualmente estudando Programação <!-- comentário -->
