@@ -26,8 +26,6 @@ Me chamo Davi Pinto tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, e
 </div>
 
 ---
-
-
     
 ### 🤖 Linguagens e Tecnologias
  <div style="display: inline_block"><br>
@@ -39,14 +37,15 @@ Me chamo Davi Pinto tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, e
   <img align="center" title="C" alt="Davi-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" title="HTML" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-
 </div>
 
 <br/>
 <br/>
 
-###
+### 📊 Estatísticas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davisqxf12&show_icons=true&theme=merko)
+
 
 ## 
 
