@@ -29,7 +29,7 @@ Me chamo Davi Pinto tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, e
 
 
     
-## Estudando
+## 🤖 Linguagens e Tecnologias
  <div style="display: inline_block"><br>
   <img align="center" alt="Davi-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
