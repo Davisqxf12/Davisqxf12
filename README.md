@@ -2,7 +2,7 @@
 
 **`Bacharelado em Ciência da Computação`**
 
-Me chamo Davi Pintom tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação na UVA.
+Me chamo Davi Pinto tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação na UVA.
 
 - 🔭 Bacharelado em Ciência da Computação na UVA (Universidade Veiga de Almeida)
 - 🌱 Atualmente estudando Programação <!-- comentário -->
