@@ -44,7 +44,7 @@ Me chamo Davi Pinto tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, e
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davisqxf12&show_icons=true&theme=synthwave&incline_all_commites=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davisqxf12&show_icons=true&theme=synthwave&incline_all_commites=true&locale=pt-br)
 
 
 ## 
