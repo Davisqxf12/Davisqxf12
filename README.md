@@ -31,7 +31,7 @@
 
 ## 
 
-Abaixo há um link para Projetos cadadêmicos ou extracurriculares!
+Abaixo há um link para projetos extracurriculares!
 
 - <a href="https://github.com/Davisqxf12/Automacao-de-Tarefas">AUTOMAÇÃO DE TAREFAS</a>
 - <a href="https://github.com/Davisqxf12/Minha-primeira-API">PROJETO DE API</a>
