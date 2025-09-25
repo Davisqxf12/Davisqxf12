@@ -18,7 +18,7 @@ Me chamo Davi Pinto tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, e
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
   <a href="https://github.com/Davisqxf12?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total de Estrelas" src="https://custom-icon-badges.demolab.com/github/stars/Davisqxf12?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total de Estrelas" src="https://custom-icon-badges.demolab.com/github/stars/Davisqxf12?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/></a>
          
   <a href="https://github.com/Davisqxf12?tab=followers">
          <img alt="followers" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/Davisqxf12?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"/></a>
