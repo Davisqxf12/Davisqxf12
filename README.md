@@ -30,6 +30,7 @@ Me chamo Davi Pinto tenho 21 anos e sou natural do Rio de Janeiro. Atualmente, e
   <img align="center" title="Jupyter" alt="Davi-Jupyter" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
   <img align="center" title="SQLite" alt="Davi-SQLite" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
   <img align="center" title="MySQL" alt="Davi-MySQL" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" title="Power BI" alt="Davi-Power BI" height="30" width="40" <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000">
 </div>
 
 <br/>
