@@ -43,7 +43,7 @@ Me chamo Davi Pinto tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, e
   alt="GitHub Stats"
   heigh="200"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=Davisqxf12&show_icons=true&theme=synthwave&include_all_commites=true&locale=pt-br"
+  src="https://github-readme-stats-sigma-five.vercel.app/apiusername=Davisqxf12&show_icons=true&hide_border=true&border_radius=0&bg_color=00000000&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9&ring_color=8b5cf6&include_all_commits=true&locale=pt-br&rank_icon=github" 
 />
 
 <img
