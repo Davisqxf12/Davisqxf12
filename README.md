@@ -5,7 +5,7 @@
 
 ---
 
-# 👨‍💻 Davi Pinto  
+# Davi Pinto  
 
 🎓 Ciência da Computação | 💻 Desenvolvedor em formação  
 
