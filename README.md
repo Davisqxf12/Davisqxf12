@@ -88,5 +88,5 @@ Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhe
 ---
 
 <p align="center">
-  💜 Obrigado por visitar meu perfil!
+  Obrigado por visitar meu perfil!
 </p>
